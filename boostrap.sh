@@ -2,6 +2,9 @@
 
 set -e
 
+# Bash aliases
+cp dot.bash_aliases ~/.bash_aliases
+
 # Setup git
 cp dot.gitconfig ~/.gitconfig
 cp dot.gitalias ~/.gitalias
