@@ -1,0 +1,7 @@
+[user]
+	name = Vu Hong Duong
+	email = duong.vuhong.uet@gmail.com
+[core]
+	editor = vim
+[include]
+    path = ~/.gitalias
